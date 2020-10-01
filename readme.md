@@ -1,8 +1,6 @@
 # HT - Bot
 
-<img src="https://img.shields.io/badge/python-3.7.3-3776AB?style=flat&logo=python" alt="python-3.7.3 logo">
-<img src="https://img.shields.io/badge/flask-1.1.2-000000?style=flat&logo=flask" alt="flask-1.1.2">
-<img src="https://img.shields.io/badge/twilio-6.43.0-F22F46?style=flat&logo=twilio" alt="twilio-6.43.0">
+![python-3.7.3](https://img.shields.io/badge/python-3.7.3-3776AB?style=flat&logo=python) ![flask-1.1.2](https://img.shields.io/badge/flask-1.1.2-000000?style=flat&logo=flask) ![twilio-6.43.0](https://img.shields.io/badge/twilio-6.43.0-F22F46?style=flat&logo=twilio)
 
 Python script that scrapes the current day's Hindustan Times newspaper and send it via Trello WhatsApp API.
 
