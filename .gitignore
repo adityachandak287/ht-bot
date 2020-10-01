@@ -1,0 +1,5 @@
+**/__pycache__
+**/data/
+compressed/
+compress.txt
+**/.env
